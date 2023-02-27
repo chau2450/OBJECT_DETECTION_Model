@@ -1,0 +1,6 @@
+opencv/
+data/images/
+data/test.csv
+data/train.csv
+# Project exclude paths
+/cmake-build-debug/
